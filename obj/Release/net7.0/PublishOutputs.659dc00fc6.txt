@@ -1,0 +1,5 @@
+C:\Users\MinseonSong\dev\TestApp\dist\TestApp.exe
+C:\Users\MinseonSong\dev\TestApp\dist\TestApp.dll
+C:\Users\MinseonSong\dev\TestApp\dist\TestApp.deps.json
+C:\Users\MinseonSong\dev\TestApp\dist\TestApp.runtimeconfig.json
+C:\Users\MinseonSong\dev\TestApp\dist\TestApp.pdb
